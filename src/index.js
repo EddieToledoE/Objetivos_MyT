@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 //Se importa la carpeta bootstrap
-import '/src/bootstrap-grid.min.css' 
+import './bootstrap-grid.min.css' 
 //**************** */
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
